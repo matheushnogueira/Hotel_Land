@@ -17,7 +17,7 @@ Com uma interface dinâmica e otimizada para dispositivos móveis, **HotelBook**
 
 1. **Clone o repositório:**  
    ```sh
-   git clone git@github.com:matheushnogueira/Foodly.git
+   git clone git@github.com:matheushnogueira/HotelBook.git
    
 2. **Acesse a pasta do projeto:**  
    ```sh
@@ -39,4 +39,10 @@ Com uma interface dinâmica e otimizada para dispositivos móveis, **HotelBook**
 
 ---
 
-
+📌 **Funcionalidades**
+- ✅ Exibição de hotéis com imagens, descrições e preços
+- ✅ Sistema de busca e filtros (por localização, data, preço, etc.)
+- ✅ Formulário de reserva interativo
+- ✅ Autenticação de usuário (opcional)
+- ✅ Layout responsivo para desktop e mobile
+- ✅ Animações suaves com Tailwind
