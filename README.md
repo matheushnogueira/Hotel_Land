@@ -10,7 +10,33 @@ Com uma interface dinâmica e otimizada para dispositivos móveis, **HotelBook**
 
 - **React.js** – Para a construção da interface interativa  
 - **Tailwind CSS** – Para estilização rápida e responsiva  
-- **React Router** – Para navegação entre páginas  
 
 ---
+
+## 🔧 Como Rodar o Projeto  
+
+1. **Clone o repositório:**  
+   ```sh
+   git clone git@github.com:matheushnogueira/Foodly.git
+   
+2. **Acesse a pasta do projeto:**  
+   ```sh
+   cd foodly
+   
+3. **Instale as dependências:**  
+   ```sh
+   npm install
+   # ou
+   yarn install
+   
+4. **Inicie o servidor de desenvolvimento:**  
+   ```sh
+   npm start
+
+5. **Acesse no navegador:**
+   
+   Abra (http://localhost:3000) para visualizar o projeto.
+
+---
+
 
